@@ -1,0 +1,13 @@
+{
+    "name": "@lahirwisada/lwsjson-merge",
+    "version": "1.0.0",
+    "description": "Modul sederhana untuk menggabungkan beberapa objek JSON.",
+    "main": "json-merge.js",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lahirwisada/json-merge.git"
+    },
+    "keywords": ["json", "merge", "combine"],
+    "author": "Lahir Wisada Santoso",
+    "license": "MIT"
+  }
