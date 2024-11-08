@@ -4,7 +4,7 @@ Modul ini adalah solusi sederhana untuk menggabungkan beberapa objek JSON. Tujua
 
 ## Instalasi
 
-Anda dapat menginstal modul ini langsung dari GitHub dengan perintah berikut:
+Anda dapat menginstal modul ini dengan perintah berikut:
 
 ```sh
 npm install git+https://github.com/lahirwisada/lwsjson-merge.git
